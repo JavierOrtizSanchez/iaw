@@ -12,11 +12,7 @@
 ![](img/7.PNG)
 ## 6. Ademas haremos una nueva pagina que aparecera junto al about ya hecho.
 ![](img/8.PNG)
-## 7. Una vez creados y editados los ficheros que deseemos, iniciaremos la página gracias al comando:
-        jekyll serve - -host 10.0.16.200 - -port 3000
-
-        
-## donde indicaresmos tanto la ip del host como el puerto.
+## 7. Una vez creados y editados los ficheros que deseemos, iniciaremos la página gracias al comando: jekyll serve - -host 10.0.16.200 - -port 3000, donde indicaresmos tanto la ip del host como el puerto.
 ![](img/9.PNG)
 ## 8. Una vez activado, pondremos la ip junto al puerto en el navegador y nos aparecerá nuestra pagina
 ![](img/10.PNG)
