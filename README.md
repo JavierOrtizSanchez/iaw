@@ -13,4 +13,6 @@
 
 ## Unidad 2: Instalacion y configuracion CMS
 
-* [Actividad 2](unidad2/jekyll_github_pages.md)
+* [PARTE 1](unidad2/jekyll_github_pages.md)
+* [PARTE 3](https://javierortizsanchez.github.io/LagrangeJavier/)
+* [PARTE 4](https://master--javierortiz-klise.netlify.app/)
